@@ -1,7 +1,4 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
   "name": "what-weather-dark-sky",
   "version": "1.0.0",
   "description": "Weather API wrapper service for weather app",
@@ -17,7 +14,7 @@
     "node": "9.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/what-weather-dark-sky"
+    "url": "https://github.com/JohnnyBizzel/darksky-weather-api"
   },
   "license": "MIT",
   "keywords": [
